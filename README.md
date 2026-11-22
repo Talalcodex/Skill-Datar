@@ -1,8 +1,8 @@
 # Skill-Datar
 
-Engineers complete, secure, portable AI agent skills from a rough idea, prompt, workflow, or existing skill, and prepares them for solving problems.
+Engineers complete, secure, portable AI agent skills from a rough idea, prompt, workflow, or existing skill, and prepares them for marketplace submission (e.g. Agensi.io).
 
-**Version:** 1.0.0 | **Format:** open Agent Skills (`SKILL.md`) |
+**Version:** 1.0.0 | **Format:** open Agent Skills (`SKILL.md`) | **Readiness:** Draft (not yet executed in any agent)
 
 ## What it does
 - Analyzes your idea and picks a mode (Quick / Professional / Advanced)
